@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hi there 👋<br><br>My name is Prince, and I'm a COOU trained computer scientist passionate about Frontend Web Development!<br><br>  - 🔭 I recently vibecoded Eagle-Vision [https://github.com/NwabuokeiPrince28/Eagle-Vision-AI-Weapon-Detection-System.git], an AI-driven weapon detection system with YOLOv8 in the backend and a React-based frontend to enable weapon detection from livestream videos or surveillance footage from any camera source.<br>- 🌱 I’m currently learning ReactJs.<br>- 👯 I’m looking to collaborate on projects to further enhance my knowledge on ReactJs and understand insustry standards.<br>  - ☄ Send me ideas to princenwabuokei28@gmail.com</p>
+<p align="left">Hi there 👋<br><br>My name is Prince, and I'm a COOU trained computer scientist passionate about Frontend Web Development!<br><br>  - 🔭 I recently vibecoded Eagle-Vision [https://github.com/NwabuokeiPrince28/Eagle-Vision-AI-Weapon-Detection-System.git], an AI-driven weapon detection system with YOLOv8 in the backend and a React-based frontend to enable weapon detection from livestream videos or surveillance footage from any camera source.<br>- 🌱 I’m currently learning ReactJs.<br>- 👯 I’m looking to collaborate on projects to further enhance my knowledge on ReactJs and understand insustry standards.<br>  - ☄ Send me ideas to princenwabuokei.28@gmail.com</p>
 
 ###
 
